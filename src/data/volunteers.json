@@ -1,0 +1,353 @@
+{
+  "volunteers": [
+    {
+      "id": "1",
+      "name": "Ishika Patel",
+      "role": "Full Stack Developer",
+      "bio": "A motivated and curious Computer Science & Design undergraduate passionate about software development, UI/UX design, and problem-solving. Skilled in both frontend and backend development with a keen interest in building innovative and real-world solutions.",
+      "avatar": "/volunteer/ishika_patel.jpg",
+      "location": "India",
+      "expertise": ["Java", "Python", "HTML", "CSS", "JavaScript", "Tailwind", "Node.js", "React", "Docker", "MySQL", "MongoDB", "AWS", "Microsoft Azure", "UI/UX Design"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/ishika-patel-4682ab231/",
+        "github": "",
+        "website": ""
+      },
+      "achievements": [
+        "Qualified in the first round of the Smart India Hackathon 2023",
+        "Developed Evidence-Based Drug & Formulation Recommender (2023)",
+        "Created University Entrepreneurship Platform (2024)"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "2",
+      "name": "Palak Srivastava",
+      "role": "CSE-AI Student",
+      "bio": "I'm a Computer Science student specializing in AI, passionate about tech, problem-solving, and innovation. I enjoy exploring AI through prompt engineering and actively seek out new opportunities to learn and grow.",
+      "avatar": "/volunteer/palak_srivastava.jpg",
+      "location": "India",
+      "expertise": ["C", "C++ (basics)", "HTML", "CSS", "AI"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/palak-srivastava-b75482329",
+        "github": "",
+        "website": ""
+      },
+      "achievements": [
+        "Participated in dance and various college events",
+        "Attended numerous tech events for continuous learning"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "3",
+      "name": "Anushka Parmar",
+      "role": "CSE Student",
+      "bio": "I'm Anushka Parmar, a B.Tech CSE student at GNIOT with a passion for coding and innovation. I'm committed to continuous learning, exploring new ideas, and growing through teamwork and self-improvement.",
+      "avatar": "/volunteer/anushka_parmar.jpg",
+      "location": "India",
+      "expertise": ["C", "C++", "HTML", "CSS"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/anushka-parmar-233640328",
+        "github": "",
+        "website": ""
+      },
+      "achievements": [
+        "Participated in singing and multiple college events",
+        "Actively explored tech events to learn and grow"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "4",
+      "name": "Aman Jyoti Jha",
+      "role": "Full Stack Developer",
+      "bio": "I'm a Computer Science student specializing in AI, passionate about tech, problem-solving, and innovation. I enjoy building full-stack projects, working with cloud platforms, and exploring AI through prompt engineering.",
+      "avatar": "/volunteer/aman_jyoti_jha.jpg",
+      "location": "India",
+      "expertise": ["C++", "HTML", "CSS", "JavaScript", "React", "AWS", "Azure", "Google Cloud (GCP)", "Jupyter Notebooks", "Canva", "Microsoft Teams", "Google Workspace", "Gemini", "Vertex AI", "MySQL"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/aman-jyoti-jha-583611307/",
+        "github": "",
+        "website": ""
+      },
+      "achievements": [
+        "Second Prize in Inter-Branch Poster Making Competition",
+        "Developed AI-Based Smart Home Automation System",
+        "Created Amazon E-commerce Website Clone",
+        "Built Wireless Sensor Network for Agriculture"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "5",
+      "name": "Aditya Dhanraj",
+      "role": "Technical Consultant",
+      "bio": "A tech-driven Computer Science (AI specialization) student with hands-on experience in sensor-based systems and IoT solutions. Passionate about solving real-world problems through innovative technologies and automation.",
+      "avatar": "/volunteer/aditya_dhanraj.jpg",
+      "location": "India",
+      "expertise": ["C", "Java", "JavaScript", "Git", "VS Code", "SQL", "Sensor Design", "IoT Systems", "Wireless Communication Protocols"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/aditya-dhanraj-55932235b",
+        "github": "",
+        "website": ""
+      },
+      "achievements": [
+        "Developed Wireless Sensor Network for Agriculture",
+        "Created AI-powered Smart Home Automation System"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "6",
+      "name": "Aadarsh Kumar",
+      "role": "Cyber Security Enthusiast",
+      "bio": "I am a B.Tech student in CSE-AI at GNIOT, Greater Noida, with interests in cybersecurity, smart systems, and wireless sensor networks. I build scalable, low-power, and AI-driven solutions to solve real-world problems in both security and automation domains.",
+      "avatar": "/volunteer/aadarsh_kumar.jpg",
+      "location": "India",
+      "expertise": ["C", "Java", "JavaScript", "Git", "VS Code", "SQL", "IoT", "Cybersecurity", "AI Automation", "Network Design"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/aadarsh-kumar-aa4a40278",
+        "github": "",
+        "website": ""
+      },
+      "achievements": [
+        "Developed an efficient IoT network topology",
+        "Integrated advanced power-saving methods for autonomous operation",
+        "Built AI-Powered Smart Home Automation System"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "7",
+      "name": "Priyam Kumar",
+      "role": "Frontend Developer",
+      "bio": "A passionate Computer Science student with a specialization in IoT. I bring experience in web development, cloud platforms, and team collaboration. Constantly seeking to innovate and build impactful tech solutions.",
+      "avatar": "/volunteer/priyam_kumar.jpg",
+      "location": "India",
+      "expertise": ["C++", "HTML", "CSS", "JavaScript", "Microsoft Azure", "GCP", "Docker", "Kubernetes", "Adobe Photoshop", "Canva", "MS Office", "Content creation", "Cinematography", "Scriptwriting"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/priyam-kumar-71b602285",
+        "github": "https://github.com/PriyamKumar1215",
+        "website": "https://priyamkumar1215.github.io/Priyam_Portfolio"
+      },
+      "achievements": [
+        "Qualified the first round of Smart India Hackathon 2023",
+        "Organized a large-scale E-Sport Championship at GNIOT",
+        "Developed Smart Security Platform for IoT using ESP32",
+        "Created Campus Connect – Student Collaboration Platform"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "8",
+      "name": "Nikhil Sagar",
+      "role": "Full-stack Developer | CSE IoT Student",
+      "bio": "Passion-driven individual with a deep appetite for technology. I strive to contribute to innovative web interfaces and build robust APIs. My unquenched thirst for knowledge in technical frameworks fuels my growth with every experience.",
+      "avatar": "/volunteer/nikhil_sagar.jpg",
+      "location": "India",
+      "expertise": [
+        "C++", "Java", "Python",
+        "HTML", "CSS", "JavaScript",
+        "MS Office", "Canva", "Replit"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/nikhil-sagar-b36521251",
+        "github": "https://github.com/curiouslad7"
+      },
+      "achievements": [
+        "Coordinator for the E-Sports Tech Event at college",
+        "Developed Smart Security Platform for IoT using ESP32",
+        "Created Campus Connect – Student Collaboration Platform",
+        "Worked on IoT-Based Power Failure Monitoring System",
+        "Earned certification in Power BI and AI Dashboard",
+        "Certified in Artificial Intelligence",
+        "Worked on multiple cutting-edge real-life projects"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "9",
+      "name": "Udit Singh",
+      "role": "Full-Stack Developer | Aspiring AI Engineer | Data Science Undergraduate",
+      "bio": "I'm a B.Tech student at GNIOT with experience in Vue.js, React, and Django. I completed a 6-month internship at Agratas Infotech and enjoy building user-focused applications while continuously expanding my skills in web and software development. Passionate about frontend standards, accessibility, and sharing insights with the community.",
+      "avatar": "/volunteer/udit_singh.jpg",
+      "location": "India",
+      "expertise": [
+        "JavaScript", "HTML", "CSS", "Python",
+        "Vue.js", "React.js", "Django REST Framework", "FastAPI",
+        "Pandas", "NumPy", "Matplotlib", "SQL",
+        "Regression", "Classification", "Scikit-learn",
+        "Git", "REST API Integration", "Postman", "Power BI",
+        "Figma", "VS Code",
+        "Analytical Thinking", "Team Collaboration", "UI/UX Sense", "Rapid Learning"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/udit-singh-86863025b",
+        "github": "https://github.com/Udit-Singh-34567"
+      },
+      "achievements": [
+        "Published a research paper on 'Web-Ecosystem for Students with Special Needs.'",
+        "Successfully delivered and maintained 3+ active websites.",
+        "Currently leading frontend development for a major project with cross-functional coordination.",
+        "Qualified in the Top 15 teams at AM Hacks 2025, a national-level hackathon."
+      ],
+      "testimonials": [
+        "Udit is a detail-oriented developer who brings design and code together effortlessly. – Agratas Infotech Teammate",
+        "Has a strong vision for user interaction and modern frontend standards. – Project Collaborator"
+      ],
+      "projects": [
+        "ValueUTickets.com – CRM for a U.S. flight booking agency with flight API integration, mail scheduling, and admin tools.",
+        "GripChain.in – MEVN-stack e-commerce platform for packaging services, deployed via cPanel.",
+        "TrehousingPublication.com – Publishing site with Vue.js frontend and Django REST backend on separate domains.",
+        "Reusable Vue Components – Created responsive UI components for modular, scalable design."
+      ],
+      "blog": "I am passionate about sharing my journey and technical insights with the developer community. Through my personal blog, I break down complex frontend concepts, publish accessibility best practices, and offer step-by-step tutorials on modern web and AI tools. My goal is to create an open, inclusive space where learners at all levels can find inspiration and actionable knowledge to advance their own projects. I believe continuous learning and open sharing are the cornerstones of growth in tech.",
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "10",
+      "name": "Vanshika Singh",
+      "role": "AI-ML Student | Machine Learning Enthusiast",
+      "bio": "I am a first-year undergraduate student pursuing Artificial Intelligence and Machine Learning. Passionate about the fast-paced world of technology, I am eager to explore innovations in AI, especially in robotics. I enjoy staying up to date with emerging trends and actively contribute to the growing tech ecosystem through volunteering, event participation, and peer collaboration.",
+      "avatar": "/volunteer/vanshika_singh.jpg",
+      "location": "India",
+      "expertise": [
+        "C Programming",
+        "HTML",
+        "Visual Studio Code",
+        "Canva",
+        "Google Workspace",
+        "Google Cloud",
+        "Microsoft"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/vanshika-singh-94465933b"
+      },
+      "achievements": [
+        "Participated in Yukti – NRI Startup Competition",
+        "Attended multiple tech and AI/ML-focused events",
+        "Actively pursuing student ambassador roles in various tech communities"
+      ],
+      "testimonials": [
+        "Vanshika brings energy, curiosity, and a strong willingness to learn—essential traits in any tech volunteer. Her dedication to staying updated with AI trends sets her apart. – Peer, AI Student Community",
+        "An excellent team player and quick learner. Vanshika is always ready to explore, contribute, and grow with every opportunity."
+      ],
+      "campus_connect": "Involved in tech-related campus activities through volunteering, event participation, and peer collaboration. I aim to contribute toward a strong and connected tech culture within my institution by encouraging engagement, awareness, and innovation among students.",
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "11",
+      "name": "Atharv Dwivedi",
+      "role": "Videographer | Photographer | Video Editor | ECE Undergrad",
+      "bio": "B.Tech student in Electronics and Communication Engineering at JSS Noida, specializing in electronic circuits and sensor technology. Highly skilled in videography and video editing, I am passionate about merging technical knowledge with creative storytelling. Dedicated to capturing compelling moments and creating impactful visual content that bridges the worlds of technology and art.",
+      "avatar": "/volunteer/atharv_dwivedi.jpg",
+      "location": "India",
+      "expertise": [
+        "Videography",
+        "Video Editing",
+        "Photography",
+        "Electronic Circuits",
+        "Sensor Technology",
+        "Adobe Premiere Pro",
+        "Adobe Photoshop",
+        "DaVinci Resolve",
+        "Canva"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/atharv-dwivedi-88ab01303"
+      },
+      "achievements": [
+        "Produced and edited official event after-movies for JSS Noida technical and cultural fests",
+        "Photographed and covered major campus events and workshops",
+        "Awarded 'Best Short Film' in intra-college film contest",
+        "Developed project videos for electronics lab demonstrations"
+      ],
+      "testimonials": [
+        "Atharv consistently delivers creative visuals that elevate our campus events. – Event Organizing Committee",
+        "Combines a keen technical eye with artistic flair in every project. – Faculty Mentor"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "12",
+      "name": "Khushi Sharma",
+      "role": "Frontend Developer | UI/UX Enthusiast | Community Builder",
+      "bio": "Enthusiastic frontend developer passionate about blending design and technology. Skilled in creating clean, responsive user interfaces and dedicated to continuous growth through hands-on projects, hackathons, and active community involvement. Adept at turning ideas into interactive experiences while fostering connections within the tech ecosystem.",
+      "avatar": "/volunteer/khushi_sharma.jpg",
+      "location": "India",
+      "expertise": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Figma",
+        "Responsive UI",
+        "Canva",
+        "UI/UX Design"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/khushi-sharma245/",
+        "github": "https://github.com/khushi-sharma245"
+      },
+      "achievements": [
+        "Campus Ambassador at Hack With India",
+        "Participated in multiple hackathons and tech events",
+        "Built multiple frontend and full-stack projects"
+      ],
+      "testimonials": [
+        "Khushi brings fresh ideas and creative energy to every project, making a real impact in our tech community. – Peer Developer",
+        "Her attention to user experience and design details consistently delivers impressive results. – Hackathon Mentor"
+      ],
+      "projects": [
+        "Map Mishaps: Travel blog website",
+        "Blog Website: Full-stack blog with comment and contact form (in progress)"
+      ],
+      "category": "volunteer",
+      "joinedAt": "2025-06-29"
+    },
+    {
+      "id": "13",
+      "name": "Satyam Singh",
+      "role": "CSE Core Student | Computer Science Enthusiast",
+      "bio": "First-year undergraduate pursuing core Computer Science. Passionate about the dynamic world of technology and always eager to explore innovations, especially in robotics. Committed to staying informed about emerging trends and actively contributing to the tech ecosystem through volunteering, event participation, and collaboration.",
+      "avatar": "/volunteer/satyam_singh.jpg",
+      "location": "India",
+      "expertise": [
+        "C Programming",
+        "C++",
+        "HTML",
+        "Robotics",
+        "Event Participation",
+        "Tech Volunteering",
+        "Peer Collaboration"
+      ],
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/satyam-singh-724938189"
+      },
+      "achievements": [
+        "Participated in inter-college sports events",
+        "Demonstrated academic excellence in core programming subjects",
+        "Attended multiple technology-focused events"
+      ],
+      "testimonials": [
+        "Satyam brings energy, curiosity, and a strong willingness to learn—essential traits in any tech volunteer.",
+        "An excellent team player and quick learner. Satyam is always ready to explore, contribute, and grow with every opportunity."
+      ],
+      "projects": [],
+      "category": "volunteer",
+      "joinedAt": "2025-06-29"
+    }
+  ]
+}

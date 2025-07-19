@@ -1,0 +1,46 @@
+{
+  "forms": [
+    {
+      "id": "event-1",
+      "name": "TechFront AI and Blockchain",
+      "description": "RSVP for TECHFRONT AI AND BLOCKCHAIN",
+      "url": "https://devnovate.co/event/techfront-ai-and-blockchain-summit"
+    },
+    {
+      "id": "community-1",
+      "name": "Join Tech Dev Club",
+      "description": "Apply to join Tech Dev Club community",
+      "url": " https://chat.whatsapp.com/HtpadPkjf1S44FK7sTZMu4"
+    },
+    {
+      "id": "community-2",
+      "name": "Blog Submission",
+      "description": "Submit a blog post for Tech Dev Club",
+      "url": "https://forms.gle/EGF9bNyuznLaS8CF6"
+    },
+    {
+      "id": "community-3",
+      "name": "Volunteer Application",
+      "description": "Apply to volunteer with Tech Dev Club",
+      "url": "https://forms.gle/2mzR82W746Jd7S6G6"
+    },
+    {
+      "id": "community-4",
+      "name": "Speaker Application",
+      "description": "Apply to speak at Tech Dev Club events",
+      "url": "https://forms.gle/zEnX7rRMLTYpPpqi9"
+    },
+    {
+      "id": "community-5",
+      "name": "Project Submission",
+      "description": "Submit your project to Tech Dev Club",
+      "url": "https://forms.gle/project-submission"
+    },
+    {
+      "id": "community-6",
+      "name": "Feedback Form",
+      "description": "Provide feedback about Tech Dev Club",
+      "url": " https://forms.gle/ab45q4wjEYTJQnGJ7"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "certifications": [
+    {
+      "id": "1",
+      "title": "Full Stack Developer Certification",
+      "description": "Validate your skills in building complete web applications with both frontend and backend technologies.",
+      "requirements": [
+        "Complete at least 3 full-stack projects",
+        "Contribute to at least 1 open-source project",
+        "Pass the technical assessment",
+        "Complete the code review process"
+      ],
+      "benefits": [
+        "Digital certificate and badge",
+        "Featured profile on Tech Dev Club website",
+        "Access to exclusive job opportunities",
+        "Priority access to advanced workshops"
+      ],
+      "duration": "3-6 months",
+      "difficulty": "Advanced",
+      "image": "/certification/full-stack.jpg",
+      "link": "/apply/certification/full-stack"
+    }
+  ]
+}

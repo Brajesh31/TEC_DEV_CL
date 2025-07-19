@@ -1,0 +1,129 @@
+{
+  "speakers": [
+    {
+      "id": "1",
+      "name": "Arghya Kamal Guha",
+      "title": "Management Consultant | AI & Automation Strategist | LinkedIn Market Insider Certified",
+      "company": "Protiviti Global Consulting",
+      "location": "Gurugram, India",
+      "avatar": "/speakers/arghya_kamal_guha.jpg",
+      "bio": "Arghya Kamal Guha is a management consultant at Protiviti Global Consulting, where he specializes in driving digital transformation through AI, automation, and ERP modernization. With a dual academic foundation in Computer Science Engineering (B.Tech) and Business Administration (MBA), Arghya bridges the gap between technical depth and strategic insight. He is LinkedIn Market Insider certified and passionate about creative problem-solving, enterprise automation, and future-forward tech ecosystems.",
+      "expertise": [
+        "Enterprise Solutions",
+        "ERP Systems (Microsoft Dynamics 365, SAP Ariba)",
+        "Marketing Communications (MarComm) Tech Stack",
+        "Google Cloud & Natural Language Processing (NLP)",
+        "Digital Transformation & Automation Strategy"
+      ],
+      "talkTitle": "AI Implementation in ERP Solutions and MarComm",
+      "talkDescription": "A session exploring how AI and automation are transforming ERP modernization and marketing tech workflows, with practical strategies for driving digital transformation in large enterprises.",
+      "pastEvents": [
+        "TechFront AI and Blockchain at R&I PARK"
+      ],
+      "featuredAt": "2025-07-12",
+      "featuredEvent": "TechFront AI and Blockchain",
+      "featuredPlace": "R&I PARK",
+      "category": "enterprise, ai",
+      "testimonial": "Bridging strategy with technology, Arghya inspires teams to reimagine business possibilities through AI-driven transformation.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/arghyakg"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Mukul Goyal",
+      "title": "Tech Entrepreneur | AI & Blockchain Strategist | Founder – DIMRAJ",
+      "company": "DIMRAJ | Independent Developer & Community Leader",
+      "location": "Delhi, India",
+      "avatar": "/speakers/mukul_goyal.jpg",
+      "bio": "Mukul Goyal is a tech entrepreneur and the founder of DIMRAJ, working at the intersection of AI, blockchain, and software innovation. With a diverse background in software engineering, ML, and digital ecosystems, he actively contributes to developer communities and mentors young innovators. Passionate about India's tech sovereignty, Mukul focuses on building future-ready platforms that blend decentralization and intelligence.",
+      "expertise": [
+        "Blockchain & Web3",
+        "Generative AI & Machine Learning",
+        "E-commerce Tech Infrastructure",
+        "Developer Communities & Startups"
+      ],
+      "talkTitle": "Blockchain Beyond Crypto: The Real-World Impact of Decentralized Technologies",
+      "alternateTalkTitle": "AI x Blockchain: Converging Paths of the Future",
+      "talkDescription": "An exploration of how decentralized technologies are revolutionizing industries beyond cryptocurrency, and how AI and blockchain together are shaping the next wave of digital transformation.",
+      "pastEvents": [
+        "TechFront AI and Blockchain at R&I PARK"
+      ],
+      "featuredAt": "2025-07-12",
+      "featuredEvent": "TechFront AI and Blockchain",
+      "featuredPlace": "R&I PARK",
+      "category": "blockchain, ai, entrepreneur",
+      "testimonial": "Mukul empowers India's tech community through open innovation and the fusion of intelligence with decentralization.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/mukul-goyl/"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Aashi Gupta",
+      "title": "Senior AI Engineer",
+      "company": "Marsh McLennan",
+      "location": "Mumbai, India",
+      "avatar": "/speakers/aashi_gupta.jpg",
+      "bio": "Aashi Gupta is a Senior AI Engineer at Marsh McLennan with over 5 years of experience in designing and deploying end-to-end AI and NLP solutions. She specializes in building scalable systems using Generative AI, LangChain, LangGraph, and agent-based frameworks. Her work includes enterprise-grade projects like ticket auto-routing, KB article recommendation, and text-to-SQL systems integrated with feedback loops and MLOps dashboards.",
+      "expertise": [
+        "Generative AI",
+        "LangChain",
+        "LangGraph",
+        "Agent-Based Frameworks",
+        "Enterprise NLP",
+        "MLOps",
+        "Text-to-SQL",
+        "Recommendation Systems"
+      ],
+      "degrees": [
+        "MS in Data Science, Liverpool John Moores University"
+      ],
+      "talkTitle": "Responsible Generative AI in the Enterprise: From Design to Real-World Impact",
+      "talkDescription": "Explore the architecture, deployment, and governance of scalable GenAI and NLP systems for enterprise use cases—covering text-to-SQL, recommendations, MLOps dashboards, and feedback-driven improvement.",
+      "pastEvents": [
+        "TechFront AI and Blockchain at R&I PARK"
+      ],
+      "featuredAt": "2025-07-12",
+      "featuredEvent": "TechFront AI and Blockchain",
+      "featuredPlace": "R&I PARK",
+      "category": "ai, nlp, enterprise",
+      "testimonial": "Aashi is recognized for her innovation and passion for building explainable, high-impact AI.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/aashi-gupta"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Arun Kumar Yadav",
+      "title": "Chief Blockchain Officer",
+      "company": "MaalChain (Tijarah Holding Pvt Ltd - Kuala Lumpur, Malaysia)",
+      "location": "Kuala Lumpur, Malaysia",
+      "avatar": "/speakers/arun_kumar_yadav.jpg",
+      "bio": "Arun Kumar Yadav is a seasoned blockchain expert with over six years of hands-on experience in building decentralized systems, smart contracts, and blockchain infrastructure. As the CBO & Blockchain Architect at MaalChain, he has led the design and deployment of scalable Layer‑1 protocols, DeFi integrations, and secure network solutions. His deep expertise spans multiple blockchain domains—from protocol development to enterprise-grade infrastructure.\n\nArun is passionate about expanding blockchain adoption beyond the crypto-finance niche. He actively advocates for real-world implementations that benefit non-technical users, such as governmental applications, identity systems, and supply-chain traceability. His work emphasizes combining blockchain with emerging technologies like AI to create transparent, trustless systems that serve underserved communities.\n\nA frequent speaker at industry and academic events, including TAR UMT, Kuala Lumpur, Malaysia, Arun is committed to mentoring the next generation of developers. He encourages builders to abstract complexity, prioritize user-centric design, and explore blockchain projects that impact everyday lives.",
+      "expertise": [
+        "Blockchain & Web3",
+        "Layer‑1 Protocols",
+        "DeFi Integrations",
+        "Smart Contracts",
+        "Enterprise Blockchain Infrastructure",
+        "Decentralized Applications (dApps)",
+        "Blockchain for Identity & Supply Chain",
+        "Blockchain + AI"
+      ],
+      "talkTitle": "Beyond coins - Unlocking blockchain for next billion users",
+      "talkDescription": "Discover how blockchain is moving beyond cryptocurrencies to power real-world solutions for identity, supply chain, and government, unlocking transparent, user-centric applications for the next billion users.",
+      "pastEvents": [
+        "TAR UMT, Kuala Lumpur, Malaysia"
+      ],
+      "featuredAt": "2025-07-12",
+      "featuredEvent": "TechFront AI and Blockchain",
+      "featuredPlace": "R&I PARK",
+      "category": "blockchain, web3, smart contracts, DeFi, Layer-1, enterprise",
+      "testimonial": "Arun brings a unique blend of technical depth and vision for practical, real-world blockchain impact.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/arrnaya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+      }
+    }
+  ]
+}

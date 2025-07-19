@@ -1,0 +1,64 @@
+{
+  "gallery": [
+    {
+      "id": "event-techfront-2025",
+      "title": "TechFront 2025",
+      "description": "TechFront 2025 brought together innovators, students, and tech leaders...",
+      "images": [
+        "/images/gallery1/techfront-2025-01.jpg",
+        "/images/gallery1/techfront-2025-02.jpg",
+        "/images/gallery1/techfront-2025-03.jpg",
+        "/images/gallery1/techfront-2025-04.jpg",
+        "/images/gallery1/techfront-2025-05.jpg",
+        "/images/gallery1/techfront-2025-09.jpg",
+        "/images/gallery1/techfront-2025-06.jpg",
+        "/images/gallery1/techfront-2025-07.jpg",
+        "/images/gallery1/techfront-2025-08.jpg",
+        "/images/gallery1/techfront-2025-10.jpg",
+        "/images/gallery1/techfront-2025-11.jpg",
+        "/images/gallery1/techfront-2025-12.jpg",
+        "/images/gallery1/techfront-2025-13.jpg",
+        "/images/gallery1/techfront-2025-14.jpg",
+        "/images/gallery1/techfront-2025-15.jpg",
+        "/images/gallery1/techfront-2025-17.jpg",
+        "/images/gallery1/techfront-2025-18.jpg",
+        "/images/gallery1/techfront-2025-19.jpg",
+        "/images/gallery1/techfront-2025-20.jpg",
+        "/images/gallery1/techfront-2025-21.jpg",
+        "/images/gallery1/techfront-2025-22.jpg",
+        "/images/gallery1/techfront-2025-23.jpg",
+        "/images/gallery1/techfront-2025-24.jpg",
+        "/images/gallery1/techfront-2025-25.jpg",
+        "/images/gallery1/techfront-2025-28.jpg",
+        "/images/gallery1/techfront-2025-16.jpg",
+        "/images/gallery1/techfront-2025-43.jpg",
+        "/images/gallery1/techfront-2025-27.jpg",
+        "/images/gallery1/techfront-2025-26.jpg",
+
+        "/images/gallery1/techfront-2025-29.jpg",
+        "/images/gallery1/techfront-2025-30.jpg",
+        "/images/gallery1/techfront-2025-34.jpg",
+        "/images/gallery1/techfront-2025-35.jpg",
+        "/images/gallery1/techfront-2025-36.jpg",
+        "/images/gallery1/techfront-2025-37.jpg",
+        "/images/gallery1/techfront-2025-38.jpg",
+        "/images/gallery1/techfront-2025-39.jpg",
+        "/images/gallery1/techfront-2025-40.jpg",
+        "/images/gallery1/techfront-2025-41.jpg",
+        "/images/gallery1/techfront-2025-42.jpg",
+        "/images/gallery1/techfront-2025-44.jpg",
+        "/images/gallery1/techfront-2025-45.jpg",
+        "/images/gallery1/techfront-2025-31.jpg",
+        "/images/gallery1/techfront-2025-32.jpg",
+        "/images/gallery1/techfront-2025-33.jpg"
+
+      ],
+      "date": "2025-07-12",
+      "location": "Thoughtworks Technologies",
+      "attendees": 130,
+      "category": "conference",
+      "tags": ["TechFront", "Conference", "AI", "Blockchain", "Web Dev"]
+    }
+
+  ]
+}

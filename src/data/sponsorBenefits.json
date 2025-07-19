@@ -1,0 +1,188 @@
+{
+  "benefitCategories": [
+    {
+      "id": "brand-visibility",
+      "name": "Brand Visibility",
+      "benefits": [
+        {
+          "id": "logo-website",
+          "name": "Logo on Website",
+          "description": "Your company logo displayed on the Tech Dev Club website.",
+          "tiers": {
+            "diamond": "Homepage (Large)",
+            "gold": "Homepage (Medium)",
+            "silver": "Sponsors Page"
+          }
+        },
+        {
+          "id": "social-media",
+          "name": "Social Media Promotion",
+          "description": "Mentions and features on Tech Dev Club social media channels.",
+          "tiers": {
+            "diamond": "5 posts/month",
+            "gold": "3 posts/month",
+            "silver": "1 post/month"
+          }
+        },
+        {
+          "id": "newsletter",
+          "name": "Newsletter Feature",
+          "description": "Mention in our monthly newsletter sent to all community members.",
+          "tiers": {
+            "diamond": "Featured section",
+            "gold": true,
+            "silver": true
+          }
+        },
+        {
+          "id": "event-branding",
+          "name": "Event Branding",
+          "description": "Logo placement at Tech Dev Club events.",
+          "tiers": {
+            "diamond": "Premium placement",
+            "gold": "Standard placement",
+            "silver": "Group placement"
+          }
+        }
+      ]
+    },
+    {
+      "id": "event-benefits",
+      "name": "Event Benefits",
+      "benefits": [
+        {
+          "id": "speaking-opportunities",
+          "name": "Speaking Opportunities",
+          "description": "Opportunities to speak at Tech Dev Club events.",
+          "tiers": {
+            "diamond": "Dedicated session",
+            "gold": "Panel participation",
+            "silver": false
+          }
+        },
+        {
+          "id": "booth-space",
+          "name": "Booth/Exhibition Space",
+          "description": "Space to showcase your company at major events.",
+          "tiers": {
+            "diamond": "Premium location",
+            "gold": "Standard location",
+            "silver": false
+          }
+        },
+        {
+          "id": "event-tickets",
+          "name": "Complimentary Event Tickets",
+          "description": "Free tickets to Tech Dev Club events.",
+          "tiers": {
+            "diamond": "10 tickets",
+            "gold": "5 tickets",
+            "silver": "2 tickets"
+          }
+        },
+        {
+          "id": "workshop-hosting",
+          "name": "Workshop Hosting",
+          "description": "Opportunity to host technical workshops.",
+          "tiers": {
+            "diamond": "4 per year",
+            "gold": "2 per year",
+            "silver": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "recruitment",
+      "name": "Recruitment & Community",
+      "benefits": [
+        {
+          "id": "talent-access",
+          "name": "Talent Pool Access",
+          "description": "Access to our community of skilled developers.",
+          "tiers": {
+            "diamond": "Priority access",
+            "gold": true,
+            "silver": true
+          }
+        },
+        {
+          "id": "job-postings",
+          "name": "Job Postings",
+          "description": "Post job openings to our job board.",
+          "tiers": {
+            "diamond": "Unlimited",
+            "gold": "10 per year",
+            "silver": "5 per year"
+          }
+        },
+        {
+          "id": "resume-book",
+          "name": "Resume Book",
+          "description": "Access to opt-in resume collection from members.",
+          "tiers": {
+            "diamond": true,
+            "gold": true,
+            "silver": false
+          }
+        },
+        {
+          "id": "networking",
+          "name": "Networking Opportunities",
+          "description": "Connect with community members and other sponsors.",
+          "tiers": {
+            "diamond": "VIP events",
+            "gold": "All events",
+            "silver": "Select events"
+          }
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "name": "Content & Collaboration",
+      "benefits": [
+        {
+          "id": "blog-post",
+          "name": "Guest Blog Post",
+          "description": "Publish technical content on our blog.",
+          "tiers": {
+            "diamond": "4 per year",
+            "gold": "2 per year",
+            "silver": "1 per year"
+          }
+        },
+        {
+          "id": "webinar",
+          "name": "Webinar Hosting",
+          "description": "Host webinars for our community.",
+          "tiers": {
+            "diamond": "4 per year",
+            "gold": "2 per year",
+            "silver": false
+          }
+        },
+        {
+          "id": "hackathon",
+          "name": "Hackathon Sponsorship",
+          "description": "Sponsor challenges at our hackathons.",
+          "tiers": {
+            "diamond": "Premium sponsor",
+            "gold": "Standard sponsor",
+            "silver": "Basic sponsor"
+          }
+        },
+        {
+          "id": "project-collaboration",
+          "name": "Open Source Collaboration",
+          "description": "Collaborate on community open source projects.",
+          "tiers": {
+            "diamond": true,
+            "gold": true,
+            "silver": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Community Platform",
+      "description": "Open-source platform for developer communities with event management and project collaboration features.",
+      "longDescription": "A comprehensive platform built to help developer communities organize events, manage projects, and facilitate collaboration. Features include real-time chat, project boards, event calendar, and member profiles.",
+      "techStack": ["React", "Node.js", "MongoDB", "TypeScript", "Socket.io"],
+      "githubUrl": "https://github.com/Brajesh31/Tech_Dev_Club",
+      "liveUrl": "https://community.techdevclub.com",
+      "stars": 4,
+      "forks": 10,
+      "contributors": 12,
+      "author": "Brajesh",
+      "authorAvatar": "/core/brajesh-kumar.jpg",
+      "status": "active",
+      "difficulty": "intermediate",
+      "createdAt": "2024-09-15",
+      "isApproved": true,
+      "featured": true,
+      "screenshots": [
+        "/projects/Community Platform/tech_dev_club.png",
+        "/projects/Community Platform/tech_dev_club_2.png"
+      ]
+    }
+  ]
+}

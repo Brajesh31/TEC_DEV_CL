@@ -1,0 +1,98 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "Kumar Gaurav Tiwari",
+      "role": "Founder",
+      "bio": "Passionate technologist and community builder with expertise in Python, Web Development, and Machine Learning. Founded Tech Dev Club to create a supportive environment for developers to learn and grow together.",
+      "avatar": "/core/kumar-gaurav-tiwari-founder.jpg",
+      "location": "India",
+      "expertise": ["Python", "Web Development", "Machine Learning", "Community Building"],
+      "social": {
+        "github": "https://github.com/kumargauravtiwari",
+        "linkedin": "https://www.linkedin.com/in/kumar-gaurav-tiwari-22b04027a/",
+        "email": "techdevclub2025@gmail.com"
+      },
+      "achievements": ["Founded Tech Dev Club", "Built a global developer community", "Led multiple tech initiatives"],
+      "category": "core",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "2",
+      "name": "Brajesh Kumar",
+      "role": "Co-Founder",
+      "bio": "Creative CSE undergrad with a drive to build scalable, impactful solutions at the intersection of AI, web, and community. I blend code, design, and real-world insight to empower users and teams globally.",
+      "avatar": "/core/brajesh-kumar.jpg",
+      "location": "India",
+      "expertise": [
+        "Python", "JavaScript", "Java", "C++", "Go", "Shell",
+        "React.js", "Angular", "Node.js", "Django", "MongoDB",
+        "Machine Learning", "GANs", "NLP", "Data Science",
+        "UI/UX", "Figma", "Framer", "Tailwind CSS",
+        "Docker", "Git", "Jenkins", "AWS",
+        "Leadership", "Collaboration", "Analytical Thinking"
+      ],
+      "social": {
+        "github": "https://github.com/Brajesh31",
+        "linkedin": "https://linkedin.com/in/brajesh-kumar-9b58651a8",
+        "website": "https://www.edtech-community.com/"
+      },
+      "achievements": [
+        "Invited participant, OpenAI Academy Launch 2025 (Delhi)",
+        "Selected as SSOC Season 4 Contributor (2025)",
+        "Achieved 200K+ LinkedIn impressions for tech community posts"
+      ],
+      "category": "core",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "3",
+      "name": "Vani Sen",
+      "role": "Community Manager",
+      "bio": "Experienced community manager with a passion for AI and machine learning. Dedicated to fostering an inclusive and supportive environment for developers of all skill levels.",
+      "avatar": "/core/vani_community_manager.jpg",
+      "location": "India",
+      "expertise": ["AI", "ML", "Python", "Web Dev", "Prompt Engineering", "Community Management"],
+      "social": {
+        "github": "https://github.com/Vani412",
+        "linkedin": "https://www.linkedin.com/in/vani-sen-037b2422a/",
+        "website": "https://vanisen.my.canva.site/"
+      },
+      "achievements": [
+        "Founder of a non-profit AI4Tomorrow",
+        "Published Author",
+        "Youth Fellow UNESCO",
+        "Featured as TOP CXOs on Impaakt"
+      ],
+      "category": "core",
+      "joinedAt": "2025-06-01"
+    },
+    {
+      "id": "4",
+      "name": "Bhavya Shukla",
+      "role": "Team Leader",
+      "bio": "I'm a Computer Science student specializing in IoT, passionate about tech, problem-solving, and innovation. I enjoy building full-stack projects, working with cloud platforms, and exploring AI through prompt engineering.",
+      "avatar": "/core/bhavya_team_leader.jpg",
+      "location": "India",
+      "expertise": [
+        "C++", "HTML", "CSS", "JavaScript", "React",
+        "AWS", "Azure", "Google Cloud (GCP)",
+        "Docker",
+        "Jupyter Notebooks", "Canva", "Microsoft Teams", "Google Workspace",
+        "Gemini", "Vertex AI",
+        "MySQL (Beginner)"
+      ],
+      "social": {
+        "github": "https://github.com/bhavya21A",
+        "linkedin": "https://www.linkedin.com/in/thebhavyashukla/",
+        "website": "https://bhavya21a.github.io/Bhavya_portfolio1/"
+      },
+      "achievements": [
+        "Qualified first round of Smart India Hackathon 2023 for a dropout analysis solution",
+        "Boosted brand participation by 25% as a Student Ambassador at Viral Fission"
+      ],
+      "category": "core",
+      "joinedAt": "2025-06-01"
+    }
+  ]
+}

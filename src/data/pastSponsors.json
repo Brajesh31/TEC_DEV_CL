@@ -1,0 +1,31 @@
+{
+  "sponsors": [
+    {
+      "id": "1",
+      "name": "Physics Wallah",
+      "logo": "/sponsor/pw-logo.png",
+      "website": "https://www.pw.live",
+      "tier": "Title Sponsor",
+      "years": ["2025"],
+      "description": "Physics Wallah (PW) is India’s leading EdTech platform, supporting TechFront 2025 as the Title Sponsor with a special on-stage presence and financial sponsorship."
+    },
+    {
+      "id": "2",
+      "name": "TruScholar",
+      "logo": "/sponsor/truscholar-logo.png",
+      "website": "https://www.truscholar.io/",
+      "tier": "Credential Partner",
+      "years": ["2025"],
+      "description": "TruScholar is a leading credential partner, providing blockchain-based digital certificates and verifications for educational and professional achievements."
+    },
+    {
+      "id": "3",
+      "name": "Devnovate",
+      "logo": "/sponsor/devnovate-logo.jpg",
+      "website": "https://devnovate.co",
+      "tier": "Platform Partner",
+      "years": ["2025"],
+      "description": "Devnovate is a leading tech community platform, empowering developers and innovators with resources, events, and networking opportunities to drive digital transformation."
+    }
+  ]
+}

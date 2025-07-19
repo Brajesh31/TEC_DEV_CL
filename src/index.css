@@ -1,0 +1,348 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom animation delay classes */
+.animation-delay-200 {
+  animation-delay: 200ms;
+}
+
+.animation-delay-400 {
+  animation-delay: 400ms;
+}
+
+.animation-delay-600 {
+  animation-delay: 600ms;
+}
+
+.animation-delay-800 {
+  animation-delay: 800ms;
+}
+
+.animation-delay-1000 {
+  animation-delay: 1000ms;
+}
+
+.animation-delay-1500 {
+  animation-delay: 1500ms;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2000ms;
+}
+
+/* Fix for page transitions */
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+/* Fix for React Router and page refreshes */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Responsive typography */
+@layer base {
+  html {
+    font-size: 14px;
+  }
+  
+  @media (min-width: 640px) {
+    html {
+      font-size: 15px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    html {
+      font-size: 16px;
+    }
+  }
+  
+  h1 {
+    @apply text-3xl sm:text-4xl md:text-5xl font-bold;
+  }
+  
+  h2 {
+    @apply text-2xl sm:text-3xl font-bold;
+  }
+  
+  h3 {
+    @apply text-xl sm:text-2xl font-semibold;
+  }
+}
+
+/* Responsive container classes */
+@layer components {
+  .container-narrow {
+    @apply w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .container-wide {
+    @apply w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .responsive-grid {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 lg:gap-8;
+  }
+  
+  .responsive-grid-tight {
+    @apply grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4;
+  }
+  
+  .responsive-grid-wide {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-6;
+  }
+}
+
+/* Responsive image handling */
+img {
+  @apply max-w-full h-auto object-cover;
+}
+
+/* Improved touch targets for mobile */
+button, 
+a, 
+[role="button"],
+input[type="submit"],
+input[type="button"] {
+  @apply min-h-[44px] min-w-[44px];
+}
+
+/* Responsive padding and margin utilities */
+@layer utilities {
+  .p-responsive {
+    @apply p-4 sm:p-6 lg:p-8;
+  }
+  
+  .py-responsive {
+    @apply py-8 sm:py-12 lg:py-16;
+  }
+  
+  .px-responsive {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+  
+  .m-responsive {
+    @apply m-4 sm:m-6 lg:m-8;
+  }
+  
+  .my-responsive {
+    @apply my-8 sm:my-12 lg:my-16;
+  }
+  
+  .mx-responsive {
+    @apply mx-4 sm:mx-6 lg:mx-8;
+  }
+}
+
+/* Mobile menu animation */
+.mobile-menu-enter {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+.mobile-menu-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 200ms, transform 200ms;
+}
+
+.mobile-menu-exit {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.mobile-menu-exit-active {
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 200ms, transform 200ms;
+}
+
+/* Prevent horizontal overflow */
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+body {
+  @apply overflow-x-hidden;
+}
+
+/* Header specific styles */
+header nav {
+  @apply overflow-visible;
+}
+
+header .max-w-7xl {
+  @apply overflow-visible;
+}
+
+/* Responsive text truncation */
+.line-clamp-1,
+.line-clamp-2,
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-1 {
+  -webkit-line-clamp: 1;
+}
+
+.line-clamp-2 {
+  -webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+  -webkit-line-clamp: 3;
+}
+
+/* Improved focus styles for accessibility */
+a:focus,
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  @apply outline-none ring-2 ring-primary-500 ring-offset-2 ring-offset-white dark:ring-offset-gray-900;
+}
+
+/* Responsive card styles */
+.card {
+  @apply bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-all duration-300;
+}
+
+.card-body {
+  @apply p-4 sm:p-6;
+}
+
+/* Fix for iOS input styling */
+input,
+textarea,
+select {
+  @apply appearance-none;
+}
+
+/* Fix for sticky positioning on iOS */
+.sticky {
+  @apply z-10;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+/* Improved dark mode transitions */
+.dark body {
+  @apply bg-gray-900 text-white;
+}
+
+body {
+  @apply transition-colors duration-200;
+}
+
+/* Animation for slide down */
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-down {
+  animation: slideDown 0.3s ease-out forwards;
+}
+
+/* Optimize loading performance */
+.content-visibility-auto {
+  content-visibility: auto;
+}
+
+/* Lazy loading optimization */
+.lazy-load {
+  transition: opacity 0.3s ease;
+  opacity: 0;
+}
+
+.lazy-loaded {
+  opacity: 1;
+}
+
+/* Skeleton loading placeholders */
+.skeleton-loader {
+  @apply bg-gray-200 dark:bg-gray-700 animate-pulse rounded;
+}
+
+/* Responsive table styles */
+.responsive-table {
+  @apply w-full overflow-x-auto;
+}
+
+.responsive-table table {
+  @apply min-w-full;
+}
+
+/* Mobile-first approach for all components */
+.mobile-first {
+  @apply w-full;
+}
+
+/* Responsive grid layouts */
+.auto-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: 1rem;
+}
+
+/* Fluid typography */
+.fluid-text-sm {
+  font-size: clamp(0.875rem, 0.8rem + 0.375vw, 1rem);
+}
+
+.fluid-text-base {
+  font-size: clamp(1rem, 0.925rem + 0.375vw, 1.125rem);
+}
+
+.fluid-text-lg {
+  font-size: clamp(1.125rem, 1.05rem + 0.375vw, 1.25rem);
+}
+
+.fluid-text-xl {
+  font-size: clamp(1.25rem, 1.175rem + 0.375vw, 1.5rem);
+}
+
+.fluid-text-2xl {
+  font-size: clamp(1.5rem, 1.375rem + 0.625vw, 1.875rem);
+}
+
+.fluid-text-3xl {
+  font-size: clamp(1.875rem, 1.75rem + 0.625vw, 2.25rem);
+}
+
+/* Responsive spacing */
+.fluid-p {
+  padding: clamp(1rem, 0.75rem + 1.25vw, 1.5rem);
+}
+
+.fluid-m {
+  margin: clamp(1rem, 0.75rem + 1.25vw, 1.5rem);
+}
+
+/* Responsive aspect ratios */
+.aspect-video {
+  aspect-ratio: 16 / 9;
+}
+
+.aspect-square {
+  aspect-ratio: 1 / 1;
+}
+
+.aspect-portrait {
+  aspect-ratio: 3 / 4;
+}

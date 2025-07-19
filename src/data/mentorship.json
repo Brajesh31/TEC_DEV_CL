@@ -1,0 +1,147 @@
+{
+  "mentors": [
+    {
+      "id": "1",
+      "name": "Kumar Gaurav Tiwari",
+      "avatar": "/core/kumar-gaurav-tiwari-founder.jpg",
+      "title": "Founder",
+      "company": "Tech Dev Club",
+      "expertise": ["Python", "Web Development", "Machine Learning", "Community Building"],
+      "bio": "Passionate technologist and community builder with expertise in Python, Web Development, and Machine Learning. Founded Tech Dev Club to create a supportive environment for developers to learn and grow together.",
+      "availability": "2 hours/week",
+      "linkedin": "https://www.linkedin.com/in/kumar-gaurav-tiwari-22b04027a/",
+      "github": "https://github.com/kumargauravtiwari"
+    },
+    {
+      "id": "2",
+      "name": "Brajesh Kumar",
+      "avatar": "/core/brajesh-kumar.jpg",
+      "title": "Co-Founder",
+      "company": "Tech Dev Club",
+      "expertise": ["JavaScript", "React", "Node.js", "Full Stack Development"],
+      "bio": "Creative CSE undergrad with a drive to build scalable, impactful solutions at the intersection of AI, web, and community. I blend code, design, and real-world insight to empower users and teams globally.",
+      "availability": "3 hours/week",
+      "linkedin": "https://linkedin.com/in/brajesh-kumar-9b58651a8",
+      "github": "https://github.com/Brajesh31",
+      "website": "https://www.edtech-community.com/"
+    },
+    {
+      "id": "3",
+      "name": "Vani Sen",
+      "avatar": "/core/vani_community_manager.jpg",
+      "title": "Community Manager",
+      "company": "Tech Dev Club",
+      "expertise": ["AI", "ML", "Python", "Web Dev", "Prompt Engineering", "Community Management"],
+      "bio": "Experienced community manager with a passion for AI and machine learning. Dedicated to fostering an inclusive and supportive environment for developers of all skill levels.",
+      "availability": "4 hours/week",
+      "linkedin": "https://www.linkedin.com/in/vani-sen-037b2422a/",
+      "github": "https://github.com/Vani412",
+      "website": "https://vanisen.my.canva.site/"
+    },
+    {
+      "id": "4",
+      "name": "Bhavya Shukla",
+      "avatar": "/core/bhavya_team_leader.jpg",
+      "title": "Team Leader",
+      "company": "Tech Dev Club",
+      "expertise": ["C++", "HTML", "CSS", "JavaScript", "React", "AWS", "Azure", "Google Cloud (GCP)"],
+      "bio": "I'm a Computer Science student specializing in IoT, passionate about tech, problem-solving, and innovation. I enjoy building full-stack projects, working with cloud platforms, and exploring AI through prompt engineering.",
+      "availability": "2 hours/week",
+      "linkedin": "https://www.linkedin.com/in/thebhavyashukla/",
+      "github": "https://github.com/bhavya21A",
+      "website": "https://bhavya21a.github.io/Bhavya_portfolio1/"
+    },
+    {
+      "id": "5",
+      "name": "Arghya Kamal Guha",
+      "avatar": "/speakers/arghya_kamal_guha.jpg",
+      "title": "Management Consultant | AI & Automation Strategist",
+      "company": "Protiviti Global Consulting",
+      "expertise": ["Enterprise Solutions", "ERP Systems", "Marketing Communications", "Google Cloud", "NLP"],
+      "bio": "Arghya is a management consultant at Protiviti Global Consulting, specializing in digital transformation through AI, automation, and ERP modernization. With a background in Computer Science Engineering (B.Tech) and Business Administration (MBA), he bridges technical depth with strategic insight.",
+      "availability": "1 hour/week",
+      "linkedin": "https://www.linkedin.com/in/arghyakg"
+    },
+    {
+      "id": "6",
+      "name": "Aashi Gupta",
+      "avatar": "/speakers/aashi_gupta.jpg",
+      "title": "Senior AI Engineer",
+      "company": "Marsh McLennan",
+      "expertise": ["Generative AI", "LangChain", "LangGraph", "Agent-Based Frameworks", "Enterprise NLP", "MLOps"],
+      "bio": "Aashi Gupta is a Senior AI Engineer at Marsh McLennan with over 5 years of experience in designing and deploying end-to-end AI and NLP solutions. She specializes in building scalable systems using Generative AI, LangChain, LangGraph, and agent-based frameworks.",
+      "availability": "2 hours/week",
+      "linkedin": "https://www.linkedin.com/in/aashi-gupta"
+    }
+  ],
+  "program": {
+    "description": "The Tech Dev Club Mentorship Program connects experienced developers with those looking to grow their skills and advance their careers. Our structured program provides personalized guidance, project feedback, and career advice to help you reach your goals faster.",
+    "benefits": [
+      "Personalized guidance from experienced professionals",
+      "Regular one-on-one mentoring sessions",
+      "Project feedback and code reviews",
+      "Career advice and industry insights",
+      "Networking opportunities with other mentees and mentors",
+      "Access to exclusive resources and workshops"
+    ],
+    "process": [
+      {
+        "title": "Apply",
+        "description": "Submit your application with your background, goals, and areas you'd like to focus on"
+      },
+      {
+        "title": "Match",
+        "description": "Get matched with a mentor based on your goals, experience level, and interests"
+      },
+      {
+        "title": "Connect",
+        "description": "Schedule your first session to establish goals and create a personalized development plan"
+      },
+      {
+        "title": "Grow",
+        "description": "Meet regularly with your mentor to work on projects, receive feedback, and track progress"
+      },
+      {
+        "title": "Graduate",
+        "description": "Complete the program and showcase your growth and achievements"
+      },
+      {
+        "title": "Give Back",
+        "description": "Consider becoming a mentor yourself to help others in their journey"
+      }
+    ],
+    "requirements": [
+      "Active Tech Dev Club membership",
+      "Commitment to attend scheduled sessions",
+      "Willingness to work on projects and assignments",
+      "Open to feedback and continuous improvement",
+      "Respectful and professional communication"
+    ],
+    "faqs": [
+      {
+        "question": "How long does the mentorship program last?",
+        "answer": "Our standard program runs for 3 months, but can be extended based on mutual agreement between mentor and mentee."
+      },
+      {
+        "question": "How often will I meet with my mentor?",
+        "answer": "Most mentor-mentee pairs meet for 1 hour every 1-2 weeks, but the exact schedule is flexible and determined by both parties."
+      },
+      {
+        "question": "Is there a cost to join the mentorship program?",
+        "answer": "The program is free for active Tech Dev Club members. We believe in giving back to the community and helping each other grow."
+      },
+      {
+        "question": "Can I request a specific mentor?",
+        "answer": "Yes, you can indicate your preferred mentor in your application. We'll do our best to accommodate your request, but matches depend on mentor availability and expertise alignment."
+      },
+      {
+        "question": "What if the mentor-mentee match isn't working out?",
+        "answer": "We understand that not all matches are perfect. If either party feels the relationship isn't working, they can request a rematch through our program coordinators."
+      },
+      {
+        "question": "How do I become a mentor?",
+        "answer": "Experienced developers can apply to become mentors through our Volunteer page. We look for technical expertise, communication skills, and a passion for helping others grow."
+      }
+    ]
+  }
+}

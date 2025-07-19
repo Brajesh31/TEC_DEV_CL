@@ -1,0 +1,77 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: tech-dev-club-backend
+  
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/techdevclub}
+      auto-index-creation: true
+  
+  security:
+    user:
+      name: admin
+      password: admin123
+
+  # Static resource handling
+  web:
+    resources:
+      static-locations: classpath:/static/
+      cache:
+        period: 3600
+      chain:
+        strategy:
+          content:
+            enabled: true
+            paths: /**
+
+# JWT Configuration
+jwt:
+  secret: ${JWT_SECRET:mySecretKey123456789012345678901234567890}
+  expiration: 86400000 # 24 hours in milliseconds
+
+# API Key Configuration
+api:
+  key: ${API_KEY:tech-dev-club-api-key-2024}
+
+# CORS Configuration
+cors:
+  allowed-origins: ${CORS_ORIGINS:http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173,http://127.0.0.1:3000}
+  allowed-methods: GET,POST,PUT,DELETE,PATCH,OPTIONS
+  allowed-headers: "*"
+  allow-credentials: true
+
+# Community Links
+community:
+  links:
+    whatsapp: ${WHATSAPP_URL:https://chat.whatsapp.com/HtpadPkjf1S44FK7sTZMu4}
+    discord: ${DISCORD_URL:https://discord.gg/6MVn2N9q}
+    instagram: ${INSTAGRAM_URL:https://www.instagram.com/techdevclub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==}
+    linkedin: ${LINKEDIN_URL:https://www.linkedin.com/company/tech-dev-club/}
+    email: ${EMAIL:techdevclub2025@gmail.com}
+    join_form: ${JOIN_FORM:https://forms.gle/2mzR82W746Jd7S6G6}
+
+# Logging
+logging:
+  level:
+    com.techdevclub: INFO
+    org.springframework.security: INFO
+    org.springframework.web: INFO
+    org.springframework.boot.web: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+
+# Management endpoints
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: when-authorized

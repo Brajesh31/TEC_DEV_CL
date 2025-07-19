@@ -1,0 +1,148 @@
+{
+  "spotlights": [
+    {
+      "id": "1",
+      "name": "Kumar Gaurav Tiwari",
+      "title": "Founder",
+      "company": "Tech Dev Club",
+      "location": "India",
+      "avatar": "/core/kumar-gaurav-tiwari-founder.jpg",
+      "bio": "Passionate technologist and community builder with expertise in Python, Web Development, and Machine Learning. Founded Tech Dev Club to create a supportive environment for developers to learn and grow together.",
+      "achievement": "Founded Tech Dev Club and grew it to a thriving global community",
+      "impact": "Created a platform for developers to learn, collaborate, and grow their skills through mentorship and community support",
+      "skills": ["Python", "Web Development", "Machine Learning", "Community Building"],
+      "projects": [
+        {
+          "name": "Tech Dev Club Platform",
+          "description": "Community platform for developers to connect and collaborate",
+          "url": "https://github.com/kumargauravtiwari"
+        },
+        {
+          "name": "Developer Resources Hub",
+          "description": "Curated collection of learning resources for developers",
+          "url": "https://github.com/kumargauravtiwari"
+        }
+      ],
+      "social": {
+        "github": "https://github.com/kumargauravtiwari",
+        "linkedin": "https://www.linkedin.com/in/kumar-gaurav-tiwari-22b04027a/"
+      },
+      "featuredAt": "2024-11-01",
+      "category": "leader",
+      "testimonial": "Building Tech Dev Club has been an incredible journey. Seeing our community grow and impact so many developers' careers has been the most rewarding experience of my professional life."
+    },
+    {
+      "id": "2",
+      "name": "Brajesh Kumar",
+      "title": "Co-Founder",
+      "company": "Tech Dev Club",
+      "location": "India",
+      "avatar": "/core/brajesh-kumar.jpg",
+      "bio": "Creative CSE undergrad with a drive to build scalable, impactful solutions at the intersection of AI, web, and community. I blend code, design, and real-world insight to empower users and teams globally.",
+      "achievement": "Developed innovative AI-driven solutions for community engagement and learning",
+      "impact": "Mentored 50+ developers and contributed to multiple open-source projects that serve the developer community",
+      "skills": [
+        "Python", "JavaScript", "Java", "React.js", "Node.js",
+        "Machine Learning", "NLP", "UI/UX", "Docker", "AWS"
+      ],
+      "projects": [
+        {
+          "name": "Agrotech AI",
+          "description": "Smart AI-driven platform empowering farmers with actionable agricultural insights and crop management",
+          "url": "https://github.com/Brajesh31"
+        },
+        {
+          "name": "EdTech Community Platform",
+          "description": "Interactive, gamified learning network connecting students, mentors, and professionals",
+          "url": "https://github.com/Brajesh31"
+        },
+        {
+          "name": "Agrilearn AI",
+          "description": "Modern EdTech brand merging AI with personalized learning",
+          "url": "https://github.com/Brajesh31"
+        }
+      ],
+      "social": {
+        "github": "https://github.com/Brajesh31",
+        "linkedin": "https://linkedin.com/in/brajesh-kumar-9b58651a8",
+        "website": "tech-community.com"
+      },
+      "featuredAt": "2024-10-15",
+      "category": "Leader",
+      "testimonial": "The collaborative spirit at Tech Dev Club has pushed me to share my knowledge more openly and learn from amazing developers across different domains."
+    },
+    {
+      "id": "3",
+      "name": "Vani Sen",
+      "title": "Community Manager",
+      "company": "Tech Dev Club",
+      "location": "India",
+      "avatar": "/core/vani_community_manager.jpg",
+      "bio": "Experienced community manager with a passion for AI and machine learning. Dedicated to fostering an inclusive and supportive environment for developers of all skill levels.",
+      "achievement": "Founded AI4Tomorrow non-profit and recognized as a Youth Fellow by UNESCO",
+      "impact": "Built and nurtured a vibrant community of developers, facilitating knowledge sharing and collaboration",
+      "skills": ["AI", "ML", "Python", "Web Dev", "Prompt Engineering", "Community Management"],
+      "projects": [
+        {
+          "name": "AI4Tomorrow",
+          "description": "Non-profit organization focused on AI education and accessibility",
+          "url": "https://github.com/Vani412"
+        },
+        {
+          "name": "Community Engagement Framework",
+          "description": "Structured approach to building and maintaining tech communities",
+          "url": "https://github.com/Vani412"
+        }
+      ],
+      "social": {
+        "github": "https://github.com/Vani412",
+        "linkedin": "https://www.linkedin.com/in/vani-sen-037b2422a/",
+        "website": "https://vanisen.my.canva.site/"
+      },
+      "featuredAt": "2024-09-20",
+      "category": "contributor",
+      "testimonial": "Tech Dev Club gave me a platform to share my passion for AI and connect with like-minded developers who care about building inclusive technology."
+    },
+    {
+      "id": "4",
+      "name": "Bhavya Shukla",
+      "title": "Team Leader",
+      "company": "Tech Dev Club",
+      "location": "India",
+      "avatar": "/core/bhavya_team_leader.jpg",
+      "bio": "I'm a Computer Science student specializing in IoT, passionate about tech, problem-solving, and innovation. I enjoy building full-stack projects, working with cloud platforms, and exploring AI through prompt engineering.",
+      "achievement": "Qualified first round of Smart India Hackathon 2023 for a dropout analysis solution",
+      "impact": "Led multiple successful tech initiatives and mentored junior developers in the community",
+      "skills": [
+        "C++", "HTML", "CSS", "JavaScript", "React",
+        "AWS", "Azure", "Google Cloud (GCP)",
+        "Docker", "IoT"
+      ],
+      "projects": [
+        {
+          "name": "IoT-Based Single-Phase Power Failure Monitoring System",
+          "description": "ESP32-powered real-time monitoring with web notification",
+          "url": "https://github.com/bhavya21A"
+        },
+        {
+          "name": "Campus Connect",
+          "description": "A React-based student collaboration platform",
+          "url": "https://github.com/bhavya21A"
+        },
+        {
+          "name": "JARVIS AI Assistant",
+          "description": "Python chatbot with API integration and voice interface",
+          "url": "https://github.com/bhavya21A"
+        }
+      ],
+      "social": {
+        "github": "https://github.com/bhavya21A",
+        "linkedin": "https://www.linkedin.com/in/thebhavyashukla/",
+        "website": "https://bhavya21a.github.io/Bhavya_portfolio1/"
+      },
+      "featuredAt": "2024-08-25",
+      "category": "Innovator",
+      "testimonial": "Being part of Tech Dev Club has allowed me to grow both technically and as a leader. The supportive environment encourages innovation and continuous learning."
+    }
+  ]
+}
