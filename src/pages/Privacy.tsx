@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import { Shield, Eye, Lock, Database, Users, Settings, Calendar, AlertCircle } from 'lucide-react';
 
 const Privacy: React.FC = () => {
